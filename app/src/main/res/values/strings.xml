@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Semaforo</string>
+    <string name="status_semaforo">Status semaforo</string>
+    <string name="iot_esp32">IOT ESP32</string>
+    <string name="ler_temperatura">Ler temperatura</string>
+    <string name="buscar_temperatura">Buscar temperatura</string>
+</resources>
